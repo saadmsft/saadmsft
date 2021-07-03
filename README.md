@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saadmsft
+- 👋 Hi, I’m @saadmsft currently Sr.Data Scientist @ Microsoft
 - 👀 I’m interested in Azure, AWS, Data Science & Security
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on Azure & Cyber Security 
